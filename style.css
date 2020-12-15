@@ -1,0 +1,12 @@
+body{
+background: #363A31;
+}
+
+.header{
+    color: #A6F230;
+    font-size: 45px;
+}
+
+.line{
+    border: 2.5px solid black;
+}
