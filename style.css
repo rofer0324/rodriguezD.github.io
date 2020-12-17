@@ -1,5 +1,6 @@
 body{
 background: #363A31;
+margin: 25px;
 }
 
 .header{
@@ -8,5 +9,21 @@ background: #363A31;
 }
 
 .line{
-    border: 2.5px solid black;
+    border: 4px solid black;
+}
+
+div.polaroid {
+    width: 45%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 grey, 0 6px 20px 0 white;
+    margin-bottom: 25px;
+
+    display: block;
+    margin: left;
+    margin: 75px;
+}
+  
+div.container {
+    text-align: center;
+    padding: 10px 20px;
 }
