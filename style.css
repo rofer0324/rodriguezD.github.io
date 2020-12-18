@@ -26,6 +26,24 @@ div.container {
     padding: 10px 20px;
 }
 
-.block{
-    text-align: right;
+/* SWITCH */
+.switch{
+    background: #343d5b;
+    border-radius: 1000px;
+    border: none;
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    outline: none;
+
+    after
+}
+
+span{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    background: none;
+    color: #fff;
 }
