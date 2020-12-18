@@ -1,1 +1,2 @@
-console.log("Hello World")
+let msg = 'VUELVA LUEGO...'
+alert(msg)
